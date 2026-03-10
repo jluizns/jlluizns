@@ -130,29 +130,6 @@ Projeto voluntário para ajudar uma instituição de idosos com presença digita
 
 ---
 
-# 📊 Estatísticas GitHub
-
-<p>
-
-<img 
-align="left" 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=jluizns&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-
-<img 
-align="left" 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jluizns&theme=tokyonight&layout=compact"
-/>
-
-</p>
-
-<br/>
-<br/>
-
----
-
 # 📫 Contato
 
 📧 Email: joseluizns2007@gmail.com  
